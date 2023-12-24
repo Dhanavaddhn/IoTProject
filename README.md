@@ -12,3 +12,5 @@
 ## การออกแบบระบบ
 ### สถาปัตยกรรมระบบ
 ![รูปภาพสถาปัตยกรรมระบบ](https://github.com/Dhanavaddhn/IoTProject/blob/main/Picture/software.png)
+
+### สถาปัตยกรรมซอร์ฟแวร์
