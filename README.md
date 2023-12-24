@@ -41,3 +41,28 @@
 |Field Name|Data Type|Constraint|Description|
 |------|------|------|------|
 |status	|int	|Not |null	|Status|
+
+## การพัฒนาระบบ
+1. เว็บไซต์
+- ภาษาโปรแกรม: HTML CSS JavaScript
+- เครื่องมือ: VS Code
+2. API
+- ภาษาโปรแกรม: Python
+- เครื่องมือ: Flask
+3. ฐานข้อมูล
+- ฐานข้อมูล: Json server
+4. Microcontroller และ Sensor
+- Microcontroller: ESP8266
+- Sensor: IR sensor
+- Output: LED
+
+## การทดสอบ
+|No.	|Test Case	|Expect Result|
+|-----|-----|-----|
+|1	|เมื่อไม่มีรถจอด	|จอแสดงผลลานว่าง|
+|2	|เมื่อมีรถจอด	|จอแสดงผลมีรถจอด|
+|3	|เมื่อเปิดไฟ	|ไฟสว่าง|
+|4	|เมื่อปิดไฟ	|ไฟดับ|
+|5	|เมื่อมีรถจอดช่องจอดพิเศษ	ไฟกระพริบ|
+
+
